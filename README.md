@@ -17,4 +17,4 @@ python3 solve_captchas_with_model.py
 
 SCREENSOT OF TRAINING PROCESS IS :
 
-! [alt text](https://github.com/i-am-manish/CAPTCHAs-Solver/blob/master/Screenshot%20from%202019-09-06%2017-20-35.png)
+![alt text](https://github.com/i-am-manish/CAPTCHAs-Solver/blob/master/Screenshot%20from%202019-09-06%2017-20-35.png)
