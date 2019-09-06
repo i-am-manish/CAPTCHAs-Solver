@@ -34,3 +34,6 @@ This will write out "captcha_model.hdf5" and "model_labels.dat"
 Run: 
 
 python3 solve_captchas_with_model.py
+
+
+SCREENSOT OF TRAINING PROCESS IS ATTACHED too
